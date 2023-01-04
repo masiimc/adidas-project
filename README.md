@@ -12,9 +12,7 @@ and template from adidas website
 
 🐱‍🏍in this project my challeng was making the web full responsive and the other detailes on hover
 
- 🍄Available on : 
-
- 🔗Demo project in my linkdin:
+ 🍄Available on :  https://masiimc.github.io/adidas-project/
 
  my social account :
  
